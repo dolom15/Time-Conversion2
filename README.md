@@ -1,1 +1,1 @@
-# Time-Conversion2
+# Time-Conversion2 This code converts a 12-hour AM/PM formatted time string into a 24-hour format by parsing it as a `DateTime` and then formatting it using `"HH:mm:ss"`. It reads the input string, performs the conversion, and outputs the result.
